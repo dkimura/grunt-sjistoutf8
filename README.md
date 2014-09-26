@@ -1,4 +1,4 @@
-# grunt-utf8tosjis
+# grunt-sjistoutf8
 
 ## 概要
 Shift-JISのファイルをUTF-8で書きだすプラグイン。
@@ -13,7 +13,7 @@ npm install grunt-sjistoutf8 -D
 1. Gruntfileでプラグインをロード。
 
 ```coffee
-grunt.loadNpmTasks 'grunt-utf8tosjis'
+grunt.loadNpmTasks 'grunt-sjistoutf8'
 ```
 
 2. タスクを書く
